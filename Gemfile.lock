@@ -341,7 +341,7 @@ DEPENDENCIES
   jbuilder
   kamal
   propshaft
-  puma (>= 5.0)
+  puma (>= 6.3.1)
   rails (~> 8.0.0)
   rubocop-rails-omakase
   selenium-webdriver
